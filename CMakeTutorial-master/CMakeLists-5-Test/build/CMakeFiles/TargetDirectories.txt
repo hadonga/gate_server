@@ -1,0 +1,9 @@
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/CMakeFiles/edit_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/CMakeFiles/rebuild_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/libsrc/CMakeFiles/add.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/libsrc/CMakeFiles/mul.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/libsrc/CMakeFiles/edit_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/libsrc/CMakeFiles/rebuild_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/src/CMakeFiles/test5.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/src/CMakeFiles/edit_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-5-Test/build/src/CMakeFiles/rebuild_cache.dir
