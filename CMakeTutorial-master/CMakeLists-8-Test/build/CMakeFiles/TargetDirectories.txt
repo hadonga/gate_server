@@ -1,0 +1,6 @@
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/add.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/sub.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/mul.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/main.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/edit_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build/CMakeFiles/rebuild_cache.dir

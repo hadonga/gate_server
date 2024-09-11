@@ -1,0 +1,23 @@
+[1.803s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/topics/minimal_subscriber': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed install_data
+[2.533s] running egg_info
+[2.536s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[2.536s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[2.537s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[2.538s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[2.538s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[2.543s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[2.554s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[2.554s] running build
+[2.554s] running build_py
+[2.554s] running install
+[2.557s] running install_lib
+[2.557s] running install_data
+[2.557s] running install_egg_info
+[2.560s] removing '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.2-py3.10.egg-info' (and everything under it)
+[2.561s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.2-py3.10.egg-info
+[2.565s] running install_scripts
+[2.629s] Installing subscriber_lambda script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.629s] Installing subscriber_member_function script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.629s] Installing subscriber_old_school script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[2.630s] writing list of installed files to '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[3.228s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed install_data

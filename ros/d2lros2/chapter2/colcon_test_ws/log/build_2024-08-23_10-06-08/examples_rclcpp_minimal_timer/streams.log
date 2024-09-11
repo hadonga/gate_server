@@ -1,0 +1,76 @@
+[0.033s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer
+[0.214s] -- The C compiler identification is GNU 11.4.0
+[0.417s] -- The CXX compiler identification is GNU 11.4.0
+[0.441s] -- Detecting C compiler ABI info
+[0.723s] -- Detecting C compiler ABI info - done
+[0.762s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.766s] -- Detecting C compile features
+[0.769s] -- Detecting C compile features - done
+[0.786s] -- Detecting CXX compiler ABI info
+[1.095s] -- Detecting CXX compiler ABI info - done
+[1.135s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.138s] -- Detecting CXX compile features
+[1.140s] -- Detecting CXX compile features - done
+[1.145s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.279s] -- Found Python3: /config/miniconda3/bin/python3 (found version "3.12.2") found components: Interpreter 
+[2.598s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[2.712s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.730s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.752s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.786s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.830s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.945s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.953s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.401s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.491s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.625s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.654s] -- Looking for pthread.h
+[3.974s] -- Looking for pthread.h - found
+[3.974s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.258s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.263s] -- Found Threads: TRUE  
+[4.453s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.808s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.814s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.815s] -- Configured cppcheck include dirs: 
+[4.816s] -- Configured cppcheck exclude dirs and/or files: 
+[4.820s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[4.820s] -- Configured cpplint exclude dirs and/or files: 
+[4.828s] -- Added test 'lint_cmake' to check CMake code style
+[4.832s] -- Added test 'uncrustify' to check C / C++ code style
+[4.832s] -- Configured uncrustify additional arguments: 
+[4.838s] -- Added test 'xmllint' to check XML markup files
+[4.850s] -- Configuring done
+[4.927s] -- Generating done
+[4.940s] -- Build files have been written to: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer
+[4.971s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/timers/minimal_timer -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer
+[4.972s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer -- -j4 -l4
+[5.120s] [ 25%] [32mBuilding CXX object CMakeFiles/timer_lambda.dir/lambda.cpp.o[0m
+[14.916s] [ 50%] [32m[1mLinking CXX executable timer_lambda[0m
+[15.446s] [ 50%] Built target timer_lambda
+[15.495s] [ 75%] [32mBuilding CXX object CMakeFiles/timer_member_function.dir/member_function.cpp.o[0m
+[24.778s] [100%] [32m[1mLinking CXX executable timer_member_function[0m
+[25.240s] [100%] Built target timer_member_function
+[25.284s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer -- -j4 -l4
+[25.358s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer
+[25.382s] -- Install configuration: ""
+[25.383s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_lambda
+[25.385s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_lambda" to ""
+[25.386s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_member_function
+[25.388s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/lib/examples_rclcpp_minimal_timer/timer_member_function" to ""
+[25.389s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_timer
+[25.390s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_timer
+[25.391s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.sh
+[25.391s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/ament_prefix_path.dsv
+[25.391s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.sh
+[25.392s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/environment/path.dsv
+[25.392s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.bash
+[25.393s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.sh
+[25.393s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.zsh
+[25.393s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/local_setup.dsv
+[25.394s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.dsv
+[25.394s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/ament_index/resource_index/packages/examples_rclcpp_minimal_timer
+[25.395s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig.cmake
+[25.395s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/cmake/examples_rclcpp_minimal_timerConfig-version.cmake
+[25.396s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_timer/share/examples_rclcpp_minimal_timer/package.xml
+[25.407s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_timer

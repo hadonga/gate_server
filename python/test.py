@@ -1,5 +1,6 @@
-import numpy as np
+import cv2
 
-a = np.random.rand(3,1)
+a = [1,2,3,4,5]
 
-print(a)
+for i in a:
+    img= cv2.imread(f"./img_{str(i).zfill(3)}")

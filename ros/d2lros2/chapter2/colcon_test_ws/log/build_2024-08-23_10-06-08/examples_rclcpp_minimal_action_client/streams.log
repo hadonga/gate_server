@@ -1,0 +1,69 @@
+[0.033s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client
+[0.061s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.182s] -- Found Python3: /config/miniconda3/bin/python3 (found version "3.12.2") found components: Interpreter 
+[0.415s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[0.478s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.485s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.500s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.528s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.560s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.671s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.730s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.735s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.982s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.103s] -- Found rclcpp_action: 16.0.10 (/opt/ros/humble/share/rclcpp_action/cmake)
+[1.143s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.412s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.414s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.415s] -- Configured cppcheck include dirs: 
+[1.415s] -- Configured cppcheck exclude dirs and/or files: 
+[1.425s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.425s] -- Configured cpplint exclude dirs and/or files: 
+[1.427s] -- Added test 'lint_cmake' to check CMake code style
+[1.429s] -- Added test 'uncrustify' to check C / C++ code style
+[1.429s] -- Configured uncrustify additional arguments: 
+[1.430s] -- Added test 'xmllint' to check XML markup files
+[1.433s] -- Configuring done
+[1.508s] -- Generating done
+[1.512s] -- Build files have been written to: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client
+[1.534s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client
+[1.535s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[1.802s] [ 12%] [32mBuilding CXX object CMakeFiles/action_client_member_functions.dir/member_functions.cpp.o[0m
+[1.804s] [ 25%] [32mBuilding CXX object CMakeFiles/action_client_not_composable.dir/not_composable.cpp.o[0m
+[1.828s] [ 37%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_feedback.dir/not_composable_with_feedback.cpp.o[0m
+[1.830s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_cancel.dir/not_composable_with_cancel.cpp.o[0m
+[35.560s] [ 62%] [32m[1mLinking CXX executable action_client_not_composable_with_feedback[0m
+[35.730s] [ 75%] [32m[1mLinking CXX executable action_client_not_composable[0m
+[36.857s] [ 87%] [32m[1mLinking CXX executable action_client_not_composable_with_cancel[0m
+[37.045s] [100%] [32m[1mLinking CXX executable action_client_member_functions[0m
+[37.476s] [100%] Built target action_client_not_composable
+[37.477s] [100%] Built target action_client_not_composable_with_feedback
+[38.449s] [100%] Built target action_client_not_composable_with_cancel
+[38.895s] [100%] Built target action_client_member_functions
+[38.949s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client -- -j4 -l4
+[39.461s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client
+[39.487s] -- Install configuration: ""
+[39.489s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[39.494s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions" to ""
+[39.495s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[39.500s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable" to ""
+[39.500s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[39.506s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel" to ""
+[39.506s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[39.510s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback" to ""
+[39.511s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[39.521s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[39.522s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[39.523s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[39.525s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[39.526s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[39.527s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[39.528s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[39.529s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[39.531s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[39.540s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[39.542s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[39.543s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[39.544s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[39.546s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[39.560s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_action_client

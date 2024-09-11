@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build",
+  "command": "/usr/bin/c++  -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/add -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/sub -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/mul -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/add.dir/source/add/add.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/add/add.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/add/add.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build",
+  "command": "/usr/bin/c++  -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/add -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/sub -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/mul -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/add.dir/source/add/add3.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/add/add3.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/add/add3.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build",
+  "command": "/usr/bin/c++  -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/add -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/sub -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/mul -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/sub.dir/source/sub/sub.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/sub/sub.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/sub/sub.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build",
+  "command": "/usr/bin/c++ -Dmul_EXPORTS -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/add -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/sub -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/mul -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/mul.dir/source/mul/mul.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/mul/mul.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/mul/mul.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/build",
+  "command": "/usr/bin/c++  -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/add -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/sub -I/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/./source/mul -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/main.dir/source/main/main.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/main/main.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/source/main/main.cpp"
+}
+]

@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "source/add",
+					"jsonFile" : "directory-source.add-Release-83fa58334b9875c4cd27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source/add",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "source/sub",
+					"jsonFile" : "directory-source.sub-Release-d8123664891c32e9ce5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source/sub",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "source/mul",
+					"jsonFile" : "directory-source.mul-Release-ba97ae97bd8174ac5625.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source/mul",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "source/main",
+					"jsonFile" : "directory-source.main-Release-ea7d660d6277014ec738.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "source/main",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "test7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "add::@65031d2d3978a39f789f",
+					"jsonFile" : "target-add-Release-f6bdf761ddaade92dbb0.json",
+					"name" : "add",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "main::@b915613cac6b8b538906",
+					"jsonFile" : "target-main-Release-d47bab9212ac205ac98f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "mul::@8919116742ed8cb77199",
+					"jsonFile" : "target-mul-Release-f6ba8c66a28dcaf492c7.json",
+					"name" : "mul",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sub::@a2f7bdc6254bc9bd3d15",
+					"jsonFile" : "target-sub-Release-32244fe5fa7117b8ad95.json",
+					"name" : "sub",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build",
+		"source" : "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

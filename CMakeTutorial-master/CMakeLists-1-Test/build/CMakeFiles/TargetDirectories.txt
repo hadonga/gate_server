@@ -1,0 +1,3 @@
+/config/workspace/CMakeTutorial-master/CMakeLists-1-Test/build/CMakeFiles/test01.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-1-Test/build/CMakeFiles/edit_cache.dir
+/config/workspace/CMakeTutorial-master/CMakeLists-1-Test/build/CMakeFiles/rebuild_cache.dir

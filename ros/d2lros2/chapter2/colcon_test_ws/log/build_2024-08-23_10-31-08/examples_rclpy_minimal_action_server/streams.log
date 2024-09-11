@@ -1,0 +1,25 @@
+[2.674s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/actions/minimal_action_server': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data
+[3.277s] running egg_info
+[3.281s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[3.282s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[3.282s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[3.282s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[3.282s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[3.285s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.288s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[3.288s] running build
+[3.288s] running build_py
+[3.289s] running install
+[3.290s] running install_lib
+[3.294s] running install_data
+[3.295s] running install_egg_info
+[3.299s] removing '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.2-py3.10.egg-info' (and everything under it)
+[3.299s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.2-py3.10.egg-info
+[3.302s] running install_scripts
+[3.351s] Installing server script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.351s] Installing server_defer script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.351s] Installing server_not_composable script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.352s] Installing server_queue_goals script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.352s] Installing server_single_goal script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[3.353s] writing list of installed files to '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/install.log'
+[3.435s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/main.dir/source/main/main.cpp.o -o ../bin/main  -Wl,-rpath,/config/workspace/CMakeTutorial-master/CMakeLists-8-Test/lib ../lib/libadd.a ../lib/libsub.a ../lib/libmul.so 

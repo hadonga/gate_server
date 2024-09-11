@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build/source/add",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/add.dir/add.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/add/add.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/add/add.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build/source/add",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/add.dir/add3.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/add/add3.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/add/add3.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build/source/sub",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/sub.dir/sub.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/sub/sub.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/sub/sub.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build/source/mul",
+  "command": "/usr/bin/g++ -Dmul_EXPORTS  -O3 -DNDEBUG -fPIC -std=gnu++11 -o CMakeFiles/mul.dir/mul.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/mul/mul.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/mul/mul.cpp"
+},
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/build/source/main",
+  "command": "/usr/bin/g++  -I/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/../add -I/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/../sub -I/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/../mul -I/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/../main -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/main.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-7-Test/source/main/main.cpp"
+}
+]

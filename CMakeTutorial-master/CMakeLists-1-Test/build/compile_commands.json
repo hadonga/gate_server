@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/config/workspace/CMakeTutorial-master/CMakeLists-1-Test/build",
+  "command": "/usr/bin/g++   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/test01.dir/test01.cpp.o -c /config/workspace/CMakeTutorial-master/CMakeLists-1-Test/test01.cpp",
+  "file": "/config/workspace/CMakeTutorial-master/CMakeLists-1-Test/test01.cpp"
+}
+]

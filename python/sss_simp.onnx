@@ -1,0 +1,6 @@
+import pathlib
+
+
+file_name=pathlib.Path("sss_simp.onnx")
+
+print(file_name)

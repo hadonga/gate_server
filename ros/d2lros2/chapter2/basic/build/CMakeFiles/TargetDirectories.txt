@@ -1,0 +1,6 @@
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/uninstall.dir
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/first_ros2_node_uninstall.dir
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/first_node.dir
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/test.dir
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/edit_cache.dir
+/config/workspace/ros/d2lros2/chapter2/basic/build/CMakeFiles/rebuild_cache.dir

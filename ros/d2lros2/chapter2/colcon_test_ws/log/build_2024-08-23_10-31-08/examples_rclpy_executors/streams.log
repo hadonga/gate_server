@@ -1,0 +1,26 @@
+[1.612s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/executors': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data
+[2.340s] running egg_info
+[2.343s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[2.344s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[2.345s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[2.346s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[2.347s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[2.353s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.357s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.358s] running build
+[2.358s] running build_py
+[2.362s] running install
+[2.364s] running install_lib
+[2.368s] running install_data
+[2.369s] running install_egg_info
+[2.374s] removing '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.2-py3.10.egg-info' (and everything under it)
+[2.375s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.2-py3.10.egg-info
+[2.378s] running install_scripts
+[2.430s] Installing callback_group script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.431s] Installing composed script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.432s] Installing custom_callback_group script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.433s] Installing custom_executor script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.433s] Installing listener script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.434s] Installing talker script to /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.436s] writing list of installed files to '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/install.log'
+[2.508s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclpy/executors' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/build install --record /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data

@@ -1,0 +1,96 @@
+[0.049s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/topics/minimal_publisher -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher
+[0.388s] -- The C compiler identification is GNU 11.4.0
+[0.725s] -- The CXX compiler identification is GNU 11.4.0
+[0.759s] -- Detecting C compiler ABI info
+[1.392s] -- Detecting C compiler ABI info - done
+[1.430s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.431s] -- Detecting C compile features
+[1.433s] -- Detecting C compile features - done
+[1.452s] -- Detecting CXX compiler ABI info
+[2.135s] -- Detecting CXX compiler ABI info - done
+[2.155s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.157s] -- Detecting CXX compile features
+[2.160s] -- Detecting CXX compile features - done
+[2.172s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.732s] -- Found Python3: /config/miniconda3/bin/python3 (found version "3.12.2") found components: Interpreter 
+[4.176s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[4.359s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.384s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.405s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.444s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.530s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.784s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.804s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.458s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.618s] -- Found FastRTPS: /opt/ros/humble/include  
+[5.785s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[5.843s] -- Looking for pthread.h
+[6.445s] -- Looking for pthread.h - found
+[6.446s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.003s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[7.014s] -- Found Threads: TRUE  
+[7.379s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.027s] -- Added test 'copyright' to check source files copyright and LICENSE
+[8.030s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.030s] -- Configured cppcheck include dirs: 
+[8.030s] -- Configured cppcheck exclude dirs and/or files: 
+[8.033s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.033s] -- Configured cpplint exclude dirs and/or files: 
+[8.035s] -- Added test 'lint_cmake' to check CMake code style
+[8.047s] -- Added test 'uncrustify' to check C / C++ code style
+[8.048s] -- Configured uncrustify additional arguments: 
+[8.052s] -- Added test 'xmllint' to check XML markup files
+[8.061s] -- Configuring done
+[8.213s] -- Generating done
+[8.228s] -- Build files have been written to: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher
+[8.281s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/src/examples/rclcpp/topics/minimal_publisher -DCMAKE_INSTALL_PREFIX=/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher
+[8.283s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[8.676s] [  8%] [32mBuilding CXX object CMakeFiles/publisher_lambda.dir/lambda.cpp.o[0m
+[26.742s] [ 16%] [32m[1mLinking CXX executable publisher_lambda[0m
+[27.695s] [ 16%] Built target publisher_lambda
+[27.852s] [ 25%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_unique_network_flow_endpoints.dir/member_function_with_unique_network_flow_endpoints.cpp.o[0m
+[42.476s] [ 33%] [32m[1mLinking CXX executable publisher_member_function_with_unique_network_flow_endpoints[0m
+[43.280s] [ 33%] Built target publisher_member_function_with_unique_network_flow_endpoints
+[43.328s] [ 41%] [32mBuilding CXX object CMakeFiles/publisher_wait_for_all_acked.dir/member_function_with_wait_for_all_acked.cpp.o[0m
+[57.562s] [ 50%] [32m[1mLinking CXX executable publisher_wait_for_all_acked[0m
+[58.440s] [ 50%] Built target publisher_wait_for_all_acked
+[58.509s] [ 58%] [32mBuilding CXX object CMakeFiles/publisher_not_composable.dir/not_composable.cpp.o[0m
+[71.329s] [ 66%] [32m[1mLinking CXX executable publisher_not_composable[0m
+[72.155s] [ 66%] Built target publisher_not_composable
+[72.215s] [ 75%] [32mBuilding CXX object CMakeFiles/publisher_member_function_with_type_adapter.dir/member_function_with_type_adapter.cpp.o[0m
+[86.215s] [ 83%] [32m[1mLinking CXX executable publisher_member_function_with_type_adapter[0m
+[87.112s] [ 83%] Built target publisher_member_function_with_type_adapter
+[87.201s] [ 91%] [32mBuilding CXX object CMakeFiles/publisher_member_function.dir/member_function.cpp.o[0m
+[100.611s] [100%] [32m[1mLinking CXX executable publisher_member_function[0m
+[101.414s] [100%] Built target publisher_member_function
+[101.453s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher -- -j4 -l4
+[101.560s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher
+[101.579s] -- Install configuration: ""
+[101.581s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda
+[101.585s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_lambda" to ""
+[101.586s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function
+[101.590s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function" to ""
+[101.591s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter
+[101.596s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_type_adapter" to ""
+[101.597s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints
+[101.602s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_member_function_with_unique_network_flow_endpoints" to ""
+[101.603s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked
+[101.608s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_wait_for_all_acked" to ""
+[101.608s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable
+[101.613s] -- Set runtime path of "/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/lib/examples_rclcpp_minimal_publisher/publisher_not_composable" to ""
+[101.614s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_publisher
+[101.616s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_publisher
+[101.617s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.sh
+[101.618s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/ament_prefix_path.dsv
+[101.620s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.sh
+[101.621s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/environment/path.dsv
+[101.623s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.bash
+[101.624s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.sh
+[101.625s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.zsh
+[101.627s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/local_setup.dsv
+[101.628s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.dsv
+[101.629s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/ament_index/resource_index/packages/examples_rclcpp_minimal_publisher
+[101.631s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig.cmake
+[101.632s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/cmake/examples_rclcpp_minimal_publisherConfig-version.cmake
+[101.633s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_minimal_publisher/share/examples_rclcpp_minimal_publisher/package.xml
+[101.647s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_minimal_publisher

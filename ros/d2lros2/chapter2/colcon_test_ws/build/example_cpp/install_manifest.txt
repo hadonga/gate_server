@@ -1,0 +1,16 @@
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/ament_index/resource_index/package_run_dependencies/example_cpp
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/ament_index/resource_index/parent_prefix_path/example_cpp
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/environment/ament_prefix_path.sh
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/environment/ament_prefix_path.dsv
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/environment/path.sh
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/environment/path.dsv
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/local_setup.bash
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/local_setup.sh
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/local_setup.zsh
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/local_setup.dsv
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/package.dsv
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/ament_index/resource_index/packages/example_cpp
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/cmake/example_cppConfig.cmake
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/cmake/example_cppConfig-version.cmake
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/share/example_cpp/package.xml
+/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/example_cpp/lib/example_cpp/node_01

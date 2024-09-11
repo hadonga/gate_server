@@ -1,0 +1,57 @@
+[0.029s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/launch_testing_examples:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_service:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_guard_conditions:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set -- -j4 -l4
+[0.139s] [35m[1mConsolidate compiler generated dependencies of target talker[0m
+[0.160s] [35m[1mConsolidate compiler generated dependencies of target wait_set_talker[0m
+[0.162s] [35m[1mConsolidate compiler generated dependencies of target listener[0m
+[0.170s] [35m[1mConsolidate compiler generated dependencies of target wait_set_listener[0m
+[0.209s] [  8%] Built target talker
+[0.235s] [ 16%] Built target wait_set_listener
+[0.248s] [ 25%] Built target wait_set_talker
+[0.253s] [ 33%] Built target listener
+[0.283s] [35m[1mConsolidate compiler generated dependencies of target thread_safe_wait_set[0m
+[0.307s] [35m[1mConsolidate compiler generated dependencies of target wait_set[0m
+[0.307s] [35m[1mConsolidate compiler generated dependencies of target static_wait_set[0m
+[0.309s] [35m[1mConsolidate compiler generated dependencies of target wait_set_topics_and_timer[0m
+[0.384s] [ 41%] Built target thread_safe_wait_set
+[0.390s] [ 50%] Built target wait_set
+[0.416s] [ 58%] Built target wait_set_topics_and_timer
+[0.419s] [ 66%] Built target static_wait_set
+[0.451s] [35m[1mConsolidate compiler generated dependencies of target wait_set_random_order[0m
+[0.494s] [35m[1mConsolidate compiler generated dependencies of target executor_random_order[0m
+[0.505s] [35m[1mConsolidate compiler generated dependencies of target wait_set_topics_with_different_rates[0m
+[0.506s] [35m[1mConsolidate compiler generated dependencies of target wait_set_composed[0m
+[0.530s] [ 75%] Built target wait_set_random_order
+[0.610s] [ 83%] Built target executor_random_order
+[0.638s] [ 91%] Built target wait_set_composed
+[0.641s] [100%] Built target wait_set_topics_with_different_rates
+[1.055s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/launch_testing_examples:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_service:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_guard_conditions:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set -- -j4 -l4
+[1.862s] Invoking command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/launch_testing_examples:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_service:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_guard_conditions:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set
+[1.877s] -- Install configuration: ""
+[1.877s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[1.878s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[1.879s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[1.879s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[1.880s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[1.881s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[1.882s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[1.883s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[1.884s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[1.885s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[1.886s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[1.887s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[1.887s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[1.888s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[1.888s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[1.889s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[1.890s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[1.890s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[1.891s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[1.891s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[1.891s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[1.892s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[1.892s] -- Installing: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[1.893s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[1.893s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[1.894s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[1.895s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[1.895s] -- Up-to-date: /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[1.905s] Invoked command in '/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/launch_testing_examples:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_pointcloud_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_subscriber:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_service:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_publisher:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_server:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_minimal_action_client:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_guard_conditions:/config/workspace/ros/d2lros2/chapter2/colcon_test_ws/install/examples_rclpy_executors:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /config/workspace/ros/d2lros2/chapter2/colcon_test_ws/build/examples_rclcpp_wait_set
